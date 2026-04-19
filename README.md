@@ -21,21 +21,8 @@ Platform ini menyapa pengguna dengan visual produk yang menggugah selera dan pes
 ### Menu & Kategori
 Pengguna dapat menjelajahi berbagai pilihan kuliner dengan sistem kartu (card) yang informatif, lengkap dengan rating dan jumlah terjual.
 
-🚀 Cara Menjalankan Proyek di Lokal
-1.  Clone repositori ini:
-    bash
-    git clone https://github.com/username/savoria-premium.git
-2.  Persiapkan Database:
-    Buka XAMPP dan aktifkan Apache serta MySQL.
-    Masuk ke `phpMyAdmin` dan buat database baru bernama `db_savoria`.
-    Impor file `.sql` (jika tersedia) ke dalam database tersebut.
-3.  Pindahkan File:
-    Salin folder proyek ke direktori `C:/xampp/htdocs/`.
-4.  Akses Website:
-    Buka browser dan ketik `localhost/savoriaaa/index.html` (atau `.php`).
-
  Kontak & Informasi
-Alamat: Jl. Ciantra, RT009/RW005, Desa Sukadanau, Kec. Cikarang Selatan, Kab. Bekasi, Jawa Barat.
-WhatsApp: +62 858-9236-2876
+Alamat: Jl. Ciantra, RT009/RW005, Desa Sukadami, Kec. Cikarang Selatan, Kab. Bekasi, Jawa Barat.
+WhatsApp: +62 812-8284-3924
 Email: savoriapremium@gmail.com
 Savoria Premium Made with love for Indonesian Food. © 2026 All Rights Reserved.
